@@ -1,6 +1,6 @@
 👋 Hi, I'm Srinadh Ghattamneni!
 
-🎓 I am a third-year student pursuing a BTech in Computer Science and Engineering at SRKR Engineering College with a CGPA of 8.9 through the 5th semester.
+🎓 I am a fourth-year student pursuing a BTech in Computer Science and Engineering at SRKR Engineering College with a CGPA of 8.92 through the 6th semester.
 
 💻 Passionate about technology and its transformative potential, I have a strong background in programming and problem-solving.
 
