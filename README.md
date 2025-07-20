@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srinadh Ghattamneni</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Let's+build+cool+stuff+together!" />
+</p>
+
+
+<p align="center">
   🚀 Aspiring Full Stack Developer | 🎓 B.Tech CSE @ SRKR Engineering College (2026)
 </p>
 
@@ -75,8 +80,4 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Let's+build+cool+stuff+together!" />
-</p>
 
