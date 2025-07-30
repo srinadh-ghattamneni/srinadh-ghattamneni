@@ -20,7 +20,7 @@
 - 🧠 Solved **200+ DSA problems** on LeetCode, GFG & HackerRank  
 - 💬 Ask me about: Full Stack Dev, Machine Learning, REST APIs  
 - 📫 Reach me at: **srinadhghattamneni1990@gmail.com**  
-- ⚡ Fun fact: Playing chess improves my debugging strategy ♟️  
+  
 
 ---
 
